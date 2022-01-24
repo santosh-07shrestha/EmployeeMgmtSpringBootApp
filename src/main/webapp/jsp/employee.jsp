@@ -10,8 +10,6 @@
 </head>
 <body>
 
-
-
 <form:form action="addEmployee" modelAttribute="employee" method="POST" >
       <table>
           <tr>
